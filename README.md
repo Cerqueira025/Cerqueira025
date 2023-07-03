@@ -1,4 +1,3 @@
-[![MasterHead](](https://github.com/)
 ### ✨ Hi, I'm Carolina Cerqueira ✨
 - 🔭 I’m currently studying on @ Universidade do Minho
 - 🌱 I’m currently learning Computer Science and engineering
